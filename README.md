@@ -1,5 +1,7 @@
 # LockStream
-Build On Stellar Bootcamp - Yozgat Bozok Üniversitesi
+HackStellar Hackathon Istanbul Edition
+
+
 
 # Digital Will – Blockchain-Based Digital Wills
 
